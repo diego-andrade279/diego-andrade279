@@ -11,7 +11,7 @@
 ## 🤖 Sobre Mim
 
 🎓 **Cientista da Computação** com Pós-Graduação em **Inteligência Artificial e Machine Learning**  
-🐍 Especialista em **Python**, **Automação** e **Visão Computacional**  
+🐍 Conhecimentos em **Python**, **Automação**  
 🤖 Explorando **IA Generativa** e suas aplicações práticas  
 🚀 **Buscando oportunidades de estágio em Inteligência Artificial**
 
@@ -51,13 +51,14 @@ Sou apaixonado por transformar dados em soluções inteligentes e automatizar pr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Deploy & Ferramentas
+### Ferramentas
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -66,26 +67,6 @@ Sou apaixonado por transformar dados em soluções inteligentes e automatizar pr
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-andrade279&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B026FF&text_color=FFFFFF&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-andrade279&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
----
-
-## 🔥 Sequência de Commits
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diego-andrade279&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=B026FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=A78BFA&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diego-andrade279&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -117,29 +98,15 @@ Repositório com projetos e experimentos de aprendizado de máquina, incluindo n
 Projetos práticos utilizando OpenCV para processamento de imagens, detecção de objetos e reconhecimento facial. Aplicações reais de computer vision.
 
 ---
+## 🐍 Meus Commit 
 
-## 📚 Atualmente Estudando
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔹 **Large Language Models (LLMs)** e Prompt Engineering
-- 🔹 **Modelos de Difusão** (Stable Diffusion, DALL-E)
-- 🔹 **MLOps** e CI/CD para modelos de ML
-- 🔹 **Arquiteturas Transformer** e Attention Mechanisms
-- 🔹 **Computer Vision Avançada** com Deep Learning
 
----
-
-## 💼 Objetivos Profissionais
-
-Busco oportunidades de **estágio em Inteligência Artificial** onde possa:
-
-✅ Aplicar conhecimentos em **Machine Learning** e **Deep Learning**  
-✅ Trabalhar com **Visão Computacional**, **processamento de imagens** e **processamento de linguagem natural**  
-✅ Desenvolver soluções com **IA Generativa**  
-✅ Contribuir com projetos de **automação inteligente**  
-✅ Participar de **deploy de modelos** em produção  
-✅ Continuar evoluindo na área de IA
-
----
 
 ## 📫 Vamos Conectar?
 

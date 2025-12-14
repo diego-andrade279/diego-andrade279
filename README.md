@@ -69,6 +69,15 @@ Projetos práticos utilizando OpenCV para processamento de imagens e detecção 
 - 🔹 Arquiteturas Transformer e Attention Mechanisms
 - 🔹 Computer Vision Avançada
 
+
+## 🐍 Minhas Contribuições sendo Processadas por uma Rede Neural
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 💼 Objetivos Profissionais
 
 Busco oportunidades de **estágio em Inteligência Artificial** onde possa aplicar meus conhecimentos em Machine Learning, Visão Computacional e IA Generativa para resolver problemas reais e continuar evoluindo na área.

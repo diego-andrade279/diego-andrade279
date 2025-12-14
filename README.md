@@ -64,27 +64,13 @@ Sou apaixonado por transformar dados em soluções inteligentes e automatizar pr
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-andrade279&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
----
+## 🐍 Contribuições
 
-## 🔥 Sequência de Commits
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diego-andrade279&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=B026FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=A78BFA&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diego-andrade279&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diego-andrade279/diego-andrade279/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📈 Gráfico de Atividade
 

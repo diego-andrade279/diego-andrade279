@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Diego+Andrade!+%F0%9F%91%8B;Cientista+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Especialista+em+IA+%2F+ML+%F0%9F%A7%A0;Python+%7C+OpenCV+%7C+TensorFlow;Buscando+Est%C3%A1gio+em+IA+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## 🤖 Sobre Mim
 

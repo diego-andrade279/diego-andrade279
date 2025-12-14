@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Diego+Andrade!+%F0%9F%91%8B;Cientista+da+Computa%C3%A7%C3%A3o+%2B+IA%2FML+%F0%9F%A7%A0;Python+%7C+OpenCV+%7C+TensorFlow+%E2%9A%A1;Vis%C3%A3o+Computacional+%F0%9F%91%81%EF%B8%8F;Buscando+Est%C3%A1gio+em+IA+%F0%9F%9A%80;Transformando+Dados+em+Intelig%C3%AAncia!+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Diego+Andrade!+%F0%9F%91%8B;Cientista+da+Computa%C3%A7%C3%A3o+%2B+IA%2FML+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diego-andrade279&color=00D9FF&style=flat-square&label=Profile+Views)
 
